@@ -1,0 +1,6 @@
+{
+  "name": "FridgeChef AI",
+  "description": "Transform your leftover ingredients into delicious recipes using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
